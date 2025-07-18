@@ -16,7 +16,6 @@ const Badge: React.FC<BadgeProps> = ({
   size = 'md',
   className = '',
 }) => {
-  // Base classes
   const baseClasses = 'inline-flex items-center justify-center font-medium rounded-full';
   
   const variantClasses = {
