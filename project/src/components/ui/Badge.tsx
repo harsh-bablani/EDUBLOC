@@ -19,7 +19,6 @@ const Badge: React.FC<BadgeProps> = ({
   // Base classes
   const baseClasses = 'inline-flex items-center justify-center font-medium rounded-full';
   
-  // Variant classes
   const variantClasses = {
     default: 'bg-neutral-100 text-neutral-800',
     primary: 'bg-primary-100 text-primary-800',
